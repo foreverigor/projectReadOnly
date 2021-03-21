@@ -1,4 +1,8 @@
-Zum installieren der Haskell Plattform unter Debian führen Sie folgendes
+Zum installieren der Haskell Plattform unter macOS mithilfe von Homebrew führen Sie folgendes
 Kommando aus:
 
-> aptitude install haskell-platform
+> brew install haskell-stack
+
+Zum deinstallieren:
+
+> brew uninstall haskell-stack
